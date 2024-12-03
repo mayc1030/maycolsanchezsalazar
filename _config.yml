@@ -9,7 +9,7 @@ baseurl: "/maycolsanchezsalazar" # the subpath of your site, e.g. /blog
 # Navigation
 urls:
     - text: Home
-      url: /maycolsanchezsalazar
+      url: /
     - text: About
       url: /about
     - text: Blog
