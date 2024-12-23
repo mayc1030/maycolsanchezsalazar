@@ -38,5 +38,30 @@ layout: compress
       });
     }
   </script>
+
+<script>
+  document.addEventListener("DOMContentLoaded", function() {
+    document.querySelectorAll("pre.highlight").forEach((block) => {
+      const copyButton = document.createElement("button");
+      copyButton.innerText = "Copiar";
+      copyButton.style.position = "absolute";
+      copyButton.style.right = "10px";
+      copyButton.style.top = "10px";
+      copyButton.classList.add("copy-btn");
+  
+      block.style.position = "relative";
+      block.appendChild(copyButton);
+  
+      copyButton.addEventListener("click", () => {
+        const code = block.querySelector("code").innerText;
+        navigator.clipboard.writeText(code).then(() => {
+          copyButton.innerText = "¡Copiado!";
+          setTimeout(() => (copyButton.innerText = "Copiar"), 2000);
+        });
+      });
+    });
+  });
+  </script>
+  
   </body>
 </html>
