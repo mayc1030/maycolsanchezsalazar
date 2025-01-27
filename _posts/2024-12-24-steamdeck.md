@@ -11,52 +11,52 @@ usemathjax: true
 permalink: /blog/steamdeck/
 ---
 
-Assain Creed the Ezro Collection
-Astral Chain
-Aztech Forgotten Gods
-Balan Wonderworld (Video Malo)
-Bayoneta 2
-Bayoneta 3
-Blazing Chorme
-BloodRayne 2
-BloodRayne
-Captain Tsubasa
-Crisis core Final Fantasy
-Curse or the Dead Gods
-Daemon X Machina
-Darksiders II
-Darksiders III (lento10-12 fps)
-Deaths Gambit Afterlife
-Devil May Cry 3
-Donkey Kong Country: Tropical Freeze
-Doom
-Dragon Ball Figther Z
-Dragon Ball Xenorverse 2
-Dragon Ball Z Kakarot
-Dragon Quest Builders
-Dragon Quest XI
-Dyying Light Platinum Edition
-Fast & Furious Spy Racers
-Fifa 23 Legacy
-Gas Guzzlers Extreme
-San andreas
-Heaven Dust 2
-Hades
-Hyrule Warriors Definitive Edition
-Hyrule Warriors La era del cataclismo
-Kirby y la tierra olvidada
-Legend of Mana
-Lego Harry Potter Collection
-Pokemon Arceus
-Little Nightmares II
-Los Pitufos Operacion Vil Hoja
-Luigi Mansion 3 (Lento 10-15 fps)
-Mario + Rabbit Sparks of Hope (error imagen)
-Mario Kart
-Mario Party Super Starts
-Marsupilian Hodba Adventure
-Max the Curse of Brotherhood
-MineCraft Dungeons
+- Assassin's Creed: The Ezio Collection  
+- Astral Chain  
+- Aztech Forgotten Gods  
+- Balan Wonderworld (Video Malo)  
+- Bayonetta 2  
+- Bayonetta 3  
+- Blazing Chrome  
+- BloodRayne  
+- BloodRayne 2  
+- Captain Tsubasa  
+- Crisis Core: Final Fantasy  
+- Curse of the Dead Gods  
+- Daemon X Machina  
+- Darksiders II  
+- Darksiders III (lento 10-12 fps)  
+- Death's Gambit: Afterlife  
+- Devil May Cry 3  
+- Donkey Kong Country: Tropical Freeze  
+- DOOM  
+- Dragon Ball FighterZ  
+- Dragon Ball Xenoverse 2  
+- Dragon Ball Z: Kakarot  
+- Dragon Quest Builders  
+- Dragon Quest XI  
+- Dying Light Platinum Edition  
+- Fast & Furious Spy Racers  
+- FIFA 23 Legacy  
+- Gas Guzzlers Extreme  
+- Grand Theft Auto: San Andreas  
+- Heaven Dust 2  
+- Hades  
+- Hyrule Warriors: Definitive Edition  
+- Hyrule Warriors: La era del cataclismo  
+- Kirby y la tierra olvidada  
+- Legend of Mana  
+- LEGO Harry Potter Collection  
+- Pokémon Arceus  
+- Little Nightmares II  
+- Los Pitufos: Operación Vil Hoja  
+- Luigi's Mansion 3 (lento 10-15 fps)  
+- Mario + Rabbids Sparks of Hope (error imagen)  
+- Mario Kart  
+- Mario Party Superstars  
+- Marsupilami: Hoobadventure  
+- Max: The Curse of Brotherhood  
+- Minecraft Dungeons  
 
 
 
