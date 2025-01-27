@@ -11,4 +11,30 @@ usemathjax: true
 permalink: /blog/steamdeck/
 ---
 
-En proceso
+Assain Creed the Ezro Collection
+Astral Chain
+Aztech Forgotten Gods
+Balan Wonderworld (Video Malo)
+Bayoneta 2
+Bayoneta 3
+Blazing Chorme
+BloodRayne 2
+BloodRayne
+Captain Tsubasa
+Crisis core Final Fantasy
+Curse or the Dead Gods
+Daemon X Machina
+Darksiders II
+Darksiders III (lento10-12 fps)
+Deaths Gambit Afterlife
+Devil May Cry 3
+Donkey Kong Country: Tropical Freeze
+Doom
+Dragon Ball Figther Z
+Dragon Ball Xenorverse 2
+Dragon Ball Z Kakarot
+Dragon Quest Builders
+
+
+
+
