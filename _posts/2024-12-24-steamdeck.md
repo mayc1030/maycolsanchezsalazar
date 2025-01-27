@@ -34,6 +34,31 @@ Dragon Ball Figther Z
 Dragon Ball Xenorverse 2
 Dragon Ball Z Kakarot
 Dragon Quest Builders
+Dragon Quest XI
+Dyying Light Platinum Edition
+Fast & Furious Spy Racers
+Fifa 23 Legacy
+Gas Guzzlers Extreme
+San andreas
+Heaven Dust 2
+Hades
+Hyrule Warriors Definitive Edition
+Hyrule Warriors La era del cataclismo
+Kirby y la tierra olvidada
+Legend of Mana
+Lego Harry Potter Collection
+Pokemon Arceus
+Little Nightmares II
+Los Pitufos Operacion Vil Hoja
+Luigi Mansion 3 (Lento 10-15 fps)
+Mario + Rabbit Sparks of Hope (error imagen)
+Mario Kart
+Mario Party Super Starts
+Marsupilian Hodba Adventure
+Max the Curse of Brotherhood
+MineCraft Dungeons
+
+
 
 
 
