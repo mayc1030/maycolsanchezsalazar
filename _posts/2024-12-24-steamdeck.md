@@ -57,6 +57,16 @@ permalink: /blog/steamdeck/
 - Marsupilami: Hoobadventure  
 - Max: The Curse of Brotherhood  
 - Minecraft Dungeons  
+- Monster Hunter Stories 2
+- My Singing monsters playground
+- New Super Mario Bros
+- Nino Kuni II El Renacer de un reino
+- Ninja Gaiden 3
+- Ninja Gaiden 2
+- Ninja Gaiden
+- Pacman World Repac
+- Paper Mario The Origin King
+- Pokemon Espada
 
 
 
