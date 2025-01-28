@@ -10,7 +10,7 @@ keywords:  steamdeck, linux, valve
 usemathjax: true
 permalink: /blog/steamdeck/
 ---
-
+Listado de juegos compatibles de Nintendo Switch para la Steam Deck con el emulador Yuzu.
 
 **77 JUEGOS**
 
