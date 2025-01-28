@@ -12,7 +12,7 @@ permalink: /blog/steamdeck/
 ---
 Listado de juegos compatibles de Nintendo Switch para la Steam Deck con el emulador Yuzu.
 
-**77 JUEGOS**
+**92 JUEGOS**
 
 - 51 Worldwide Games  
 - Alex Kidd in Miracle World DX  
@@ -20,12 +20,15 @@ Listado de juegos compatibles de Nintendo Switch para la Steam Deck con el emula
 - Astral Chain  
 - Aztech Forgotten Gods  
 - Balan Wonderworld (Video Malo)  
+- Batman Arkham Asylum  
 - Bayonetta 2  
 - Bayonetta 3  
 - Blazing Chrome  
 - BloodRayne  
 - BloodRayne 2  
 - Captain Tsubasa  
+- Crash Bandicoot 4  
+- Crash Team Racing  
 - Crisis Core: Final Fantasy  
 - Curse of the Dead Gods  
 - Daemon X Machina  
@@ -56,10 +59,14 @@ Listado de juegos compatibles de Nintendo Switch para la Steam Deck con el emula
 - Los Pitufos: Operación Vil Hoja  
 - Luigi's Mansion 3 (lento 10-15 fps)  
 - Mario + Rabbids Sparks of Hope (error imagen)  
+- Mario and Luigi Brothership  
 - Mario Kart  
 - Mario Party Superstars  
 - Marsupilami: Hoobadventure  
 - Max: The Curse of Brotherhood  
+- Megaman 11  
+- Metroid Dread  
+- Metroid Prime Remastered  
 - Minecraft Dungeons  
 - Monster Hunter Stories 2  
 - My Singing Monsters Playground  
@@ -68,11 +75,15 @@ Listado de juegos compatibles de Nintendo Switch para la Steam Deck con el emula
 - Ninja Gaiden  
 - Ninja Gaiden 2  
 - Ninja Gaiden 3  
+- Ori the Blind Forest  
+- Ori the Will of the Wisps  
 - Pac-Man World Re-Pac  
 - Paper Mario: The Origami King  
 - Pokémon Arceus  
 - Pokémon Espada  
 - Prince of Persia: The Lost Crown  
+- Resident Evil 6  
+- Resident Revelations  
 - Road Redemption  
 - Samurai Jack  
 - Sonic Colours Ultimate  
@@ -81,11 +92,20 @@ Listado de juegos compatibles de Nintendo Switch para la Steam Deck con el emula
 - Spyro Reignited Trilogy  
 - Super Bomberman  
 - Super Mario 3D All-Stars  
+- Super Mario 3D World  
 - Super Mario Maker  
+- Super Mario Odyssey  
+- Super Smash Bros Ultimate  
 - The Witcher 3: Wild Hunt  
+- Tony Hawk Pro Skater 1-2  
 - Triangle Strategy  
 - WarioWare: Get It Together  
 - Worms  
+- Yooka-Laylee  
+- Yoshi Crafted World  
+- Zelda: Breath of the Wild  
+- Zelda: Link's Awakening  
+- Zelda: Skyward Sword  
 
 
 
