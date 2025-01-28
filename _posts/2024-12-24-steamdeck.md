@@ -12,7 +12,7 @@ permalink: /blog/steamdeck/
 ---
 Listado de juegos compatibles de Nintendo Switch para la Steam Deck con el emulador Yuzu.
 
-**92 JUEGOS**
+**93 JUEGOS**
 
 - 51 Worldwide Games  
 - Alex Kidd in Miracle World DX  
@@ -81,7 +81,8 @@ Listado de juegos compatibles de Nintendo Switch para la Steam Deck con el emula
 - Paper Mario: The Origami King  
 - Pokémon Arceus  
 - Pokémon Espada  
-- Prince of Persia: The Lost Crown  
+- Prince of Persia: The Lost Crown 
+- Resident Evil 5   
 - Resident Evil 6  
 - Resident Revelations  
 - Road Redemption  
