@@ -47,55 +47,6 @@ Este script automatiza la creación y limpieza de enlaces simbólicos para múlt
 ```sh
 #!/bin/bash
 
-# Verificar si se recibieron los parámetros necesarios
-[ -z "$1" ] || [ -z "$2" ] && echo "Error: Se requieren dos parámetros." && exit 1
-
-# Definir variables
-ORIGEN="$1/$2"
-DESTINO="/home/deck/Emulation/roms/$2"
-
-# Verificar si la carpeta de origen existe
-[ ! -d "$ORIGEN" ] && echo "La carpeta de origen $ORIGEN no existe. Saliendo..." && exit 1
-
-# Crear la carpeta de destino si no existe
-mkdir -p "$DESTINO"
-
-# Crear enlaces simbólicos solo si no existen
-NUEVOS_ENLACES=0
-
-for ARCHIVO in "$ORIGEN"/*; do
-  [ -e "$ARCHIVO" ] || continue  # Saltar si no hay archivos
-  ENLACE="$DESTINO/$(basename "$ARCHIVO")"
-  [ -L "$ENLACE" ] || ln -s "$ARCHIVO" "$ENLACE" && NUEVOS_ENLACES=1
-done
-
-# Mensaje final
-[ "$NUEVOS_ENLACES" -eq 1 ] && echo "Enlaces creados en $DESTINO." || echo "Todos los enlaces ya existen."
-```
-
-#### Segundo script (crear_enlaces.sh - Script auxiliar)
-Este script se encarga de crear los enlaces simbólicos en la carpeta de EmulationStation para un sistema específico.
-
-1. Verificación de parámetros, recibe dos argumentos: 
- - ***Ruta de origen*** (ubicación de las ROMs en el disco externo).
- - ***Sistema de juego*** (nombre de la carpeta de destino en EmulationStation).
- - Si falta alguno de estos valores, muestra un error y termina la ejecución.
-2. Creación de la carpeta de destino
- - Si la carpeta de destino en EmulationStation no existe, la crea.
-3. Creación de enlaces simbólicos
- - Recorre todos los archivos en la carpeta de origen y crea un enlace simbólico en la carpeta de destino.
- - Si un enlace ya existe, lo omite para evitar duplicados.
- - Cuenta cuántos enlaces nuevos fueron creados.
-4. Mensaje final
- - Si se crearon enlaces nuevos, muestra un mensaje de confirmación.
- - Si todos los enlaces ya existían, indica que no fue necesario hacer cambios.
-
-
-**Contenido en archivo .sh:**
-
-```sh
-#!/bin/bash
-
 # Opciones disponibles para TEXTO
 TEXTO_OPCIONES=("dreamcast" "gamecube" "gb" "gba" "gbc" "n64" "nds" "nes" "ps2" "ps3" "psp" "psvita" "psx" "switch" "xbox" "xbox360")
 
@@ -168,6 +119,56 @@ cloud_sync_downloadEmuAll && cloud_sync_startService
 "$ESDE_toolPath" "${@}"
 rm -rf "$savesPath/.gaming"
 ```
+
+#### Segundo script (crear_enlaces.sh - Script auxiliar)
+Este script se encarga de crear los enlaces simbólicos en la carpeta de EmulationStation para un sistema específico.
+
+1. Verificación de parámetros, recibe dos argumentos: 
+ - ***Ruta de origen*** (ubicación de las ROMs en el disco externo).
+ - ***Sistema de juego*** (nombre de la carpeta de destino en EmulationStation).
+ - Si falta alguno de estos valores, muestra un error y termina la ejecución.
+2. Creación de la carpeta de destino
+ - Si la carpeta de destino en EmulationStation no existe, la crea.
+3. Creación de enlaces simbólicos
+ - Recorre todos los archivos en la carpeta de origen y crea un enlace simbólico en la carpeta de destino.
+ - Si un enlace ya existe, lo omite para evitar duplicados.
+ - Cuenta cuántos enlaces nuevos fueron creados.
+4. Mensaje final
+ - Si se crearon enlaces nuevos, muestra un mensaje de confirmación.
+ - Si todos los enlaces ya existían, indica que no fue necesario hacer cambios.
+
+ **Contenido en archivo .sh:**
+
+```sh
+#!/bin/bash
+
+# Verificar si se recibieron los parámetros necesarios
+[ -z "$1" ] || [ -z "$2" ] && echo "Error: Se requieren dos parámetros." && exit 1
+
+# Definir variables
+ORIGEN="$1/$2"
+DESTINO="/home/deck/Emulation/roms/$2"
+
+# Verificar si la carpeta de origen existe
+[ ! -d "$ORIGEN" ] && echo "La carpeta de origen $ORIGEN no existe. Saliendo..." && exit 1
+
+# Crear la carpeta de destino si no existe
+mkdir -p "$DESTINO"
+
+# Crear enlaces simbólicos solo si no existen
+NUEVOS_ENLACES=0
+
+for ARCHIVO in "$ORIGEN"/*; do
+  [ -e "$ARCHIVO" ] || continue  # Saltar si no hay archivos
+  ENLACE="$DESTINO/$(basename "$ARCHIVO")"
+  [ -L "$ENLACE" ] || ln -s "$ARCHIVO" "$ENLACE" && NUEVOS_ENLACES=1
+done
+
+# Mensaje final
+[ "$NUEVOS_ENLACES" -eq 1 ] && echo "Enlaces creados en $DESTINO." || echo "Todos los enlaces ya existen."
+```
+
+
 
 
 
