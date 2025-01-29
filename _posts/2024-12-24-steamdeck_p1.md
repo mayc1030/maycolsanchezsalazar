@@ -8,7 +8,7 @@ category: ['steamdeck','emulacion']
 thumbnail: /assets/img/posts/poststeamdeck.png
 keywords:  steamdeck, linux, valve
 usemathjax: true
-permalink: /blog/steamdeck/
+permalink: /blog/steamdeck/p1
 ---
 Disfruta estos juegos desde EmulationStation en Steam Deck que es una interfaz gráfica utilizada para organizar y lanzar emuladores y juegos retro. Generalmente se usa junto con EmuDeck, que automatiza la instalación y configuración de emuladores en la Steam Deck. EmulationStation ofrece una experiencia de usuario personalizable con carátulas, metadatos y opciones de navegación intuitivas para facilitar el acceso a juegos de diferentes consolas desde un solo lugar.
 
