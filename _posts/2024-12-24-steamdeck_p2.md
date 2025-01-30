@@ -5,7 +5,7 @@ summary: "Este script en Bash crea enlaces simbólicos para juegos en una carpet
 author: mayc1030
 date: '2024-12-24 0:00:00'
 category: ['steamdeck','emulacion']
-thumbnail: /assets/img/posts/poststeamdeck.png
+thumbnail: /assets/img/posts/poststeamdeckp1.png
 keywords:  steamdeck, linux, valve
 usemathjax: true
 permalink: /blog/steamdeck/p2
